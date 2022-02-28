@@ -36,7 +36,7 @@
 raylib/
 
 # compiled raylib headers
-src/include/raylib/
+src/include/raylib/*
 
 # compules raylib lib
-src/lib/
+src/lib/*
