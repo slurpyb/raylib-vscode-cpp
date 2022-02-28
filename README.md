@@ -23,7 +23,7 @@ $ mkdir ../../src/include/raylib -p && mkdir ../../src/lib
 
 ## Copy headers and library files to your src directory
 ```bash
-$ cp *.h ../../src/include && cp *.a ../../src/lib
+$ cp *.h ../../src/include/raylib && cp *.a ../../src/lib
 ```
 
 ## Configure .vscode files
