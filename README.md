@@ -16,6 +16,11 @@ $ git clone https://github.com/raysan5/raylib
 $ cd raylib/src mingw32-make PLATFORM=PLATFORM_DESKTOP
 ```
 
+## Create header and library folders for your project src
+```bash
+$ mkdir src/include/raylib -p && mkdir src/lib
+```
+
 ## Copy headers and library files to your src directory
 ```bash
 $ cp *.h ../../src/include && cp *.a ../../src/lib
