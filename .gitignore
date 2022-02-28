@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# raylib source repo
+raylib/
+
+# compiled raylib headers
+src/include/raylib/
+
+# compules raylib lib
+src/lib/
