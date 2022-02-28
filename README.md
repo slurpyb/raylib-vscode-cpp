@@ -37,6 +37,10 @@ $ cp *.h ../../src/include/raylib && cp *.a ../../src/lib
     "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
 ```
 
+# Create build folder in this repos root
+```bash
+$ mkdir build
+```
 
 ## Compile main.cpp to test
 With main.cpp selected/active in vscode, run debug task or "Start Debugging" from run menu.
